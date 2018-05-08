@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "560679768689",
+    "firebase_url": "https://ringkid-202915.firebaseio.com",
+    "project_id": "ringkid-202915",
+    "storage_bucket": "ringkid-202915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560679768689:android:bfbfb9bff257862d",
+        "android_client_info": {
+          "package_name": "com.ringkid.androidecommerce.myringkid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560679768689-ea6297hu6c4toeba8h2bvhiljh55td7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ringkid.androidecommerce.myringkid",
+            "certificate_hash": "9d61ad0927955975a8c38e62d247f357043181c0"
+          }
+        },
+        {
+          "client_id": "560679768689-osn9g3ha6mkgd8gf1mg9br0j7kema9ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ringkid.androidecommerce.myringkid",
+            "certificate_hash": "55b04d7b557f04682e8d89e4b01f298051529eee"
+          }
+        },
+        {
+          "client_id": "560679768689-22oour4coac6pvrurujvvni21opuqrrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqZ3mBaIrJ_Kbuv-7scHM9Tkauj7PaIPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560679768689-22oour4coac6pvrurujvvni21opuqrrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
